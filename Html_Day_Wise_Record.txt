@@ -1,0 +1,171 @@
+Topics covered on html 
+DAY-0-1---  
+
+1.	HTML BASIC STRUCTURE
+2.	DESCRIPTION OF STRUCTURE AND USAGE and COMMENTS
+3.	HEADING TAGS<h1></h1><h2></h2>…<h6></h6>.
+4.	PARAGRAPH TAGS(<p></p>)
+5.	HORIZONTAL AND LINE BREAKS(<hr>, <br>)
+6.	PRE <pre></pre>AND MARQUEE TAGS <marquee></marquee>
+
+Day 2 -topics discussed :
+------------------
+1.anchor tag
+	i.relative path
+	ii.absolute path
+2.formatting tags--->b,u,mark,i,strong,em
+3.div and span.
+4.inline and block level elements
+5.semantic and non semantic elements.
+Task:
+------
+restarurent page with navigation
+ipl team webpage with navigation
+
+
+<!--Day 3  topics:
+------------
+how to use vscode
+anchor tag--- call,mail,download
+image tag
+img as a link
+
+task:
+-----
+task on anchor tag and image tags
+
+
+<!Day 4-- topics:
+------------
+1.audio/video
+2.lists
+3.details-summary
+4.iframes
+-->
+<!-- tasks:
+----------
+practise all the discussed topics
+using lists display images and anchor tags
+using summary tag display images and audio/video
+practise iframes with youtube/maps also
+using iframes with name attribute develop 
+restaurent menu/celebreties blogs
+make a doc on covered topics-->
+
+<!--Day 5 - topics:
+----------
+1.tables
+2.rowspan and colspan
+3.cellspacing and cell padding
+4.bdo tag
+5.meta tag
+6.favicon
+
+task:
+-----
+1.practise all the discussed topics
+2.calculator UI
+3.IMAGE GALLERY UI Using tables
+4.OWN UI
+5.Doc
+6.RESEARCH--FORMS
+-->
+
+Day - 6
+forms:
+-------
+        text,
+        number,
+        email,
+        password,
+        submit,
+        reset,
+        radio,
+        checkbox,
+        file,
+        tel,
+        color,
+        date,
+        date-time,
+        fieldset
+        legend
+TASK:
+PRACTISE DISCUSSED TOPICS.
+DEVELOP APPLICATION FORM
+RESEARCH ON FEW MORE INPUT TYPES AND FORM ACTIONS.METHODS.
+
+
+Day 7
+<!-- topics:
+------------
+form elements
+input types
+select tag and datalist
+method-get&post
+action & formaction
+
+task:
+----
+practise all discussed topics
+and form using form actions as per the screenshot shared in the group
+research on git and github
+-->
+
+Day 8--->
+topics git and git hub
+
+Create a git hub account and try to push saome files from local repository to online repository
+
+Day 9--->
+
+Topics:-
+How to create a new branch in github
+fetch command 
+how to access git from vs code 
+how to commit and push changes in the folders from vs code 
+
+Task :-
+Deploy the task done before Using Github and share the link
+
+Day 10 --->
+Topics
+Inline css
+Internal css
+External css
+
+Classification of selectors:
+
+Simple selectors:
+Tag
+Class
+Id
+Universal 
+Grouping
+
+Task:-
+Make a Css Colour table
+
+Day 11-->
+Topics :-     
+Css Box-Modules  -
+padding
+content
+border
+margin
+
+Css Display Properties :-
+display : inline;
+display : block;
+display : inline-block;
+display: none;
+
+
+visibility: hidden ;
+
+Task:-
+Image gallery
+Box Module
+Traffic Signal Ui
+Static Solar System
+
+
