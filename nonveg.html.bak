@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Non-Vegetarian Recipes</title>
+</head>
+<body>
+  <h1>Non-Vegetarian Recipes</h1>
+  <ul>
+    <li>Chicken Tikka Masala</li>
+    <li>Butter Garlic Prawns</li>
+    <li>Lamb Rogan Josh</li>
+    <li>Fish Curry</li>
+  </ul>
+  <a href="Sahith Resturant.html">Go Back to Restaurant Details</a>
+</body>
+</html>
