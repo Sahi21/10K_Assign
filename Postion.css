@@ -1,0 +1,12 @@
+.top{
+    position:relative;
+    height : 20px;
+    width : 20px;
+}
+.middle{
+    position: relative;
+}
+.bottom{
+    position: sticky;
+    top: 0;
+}

@@ -1,0 +1,45 @@
+.main{
+    border:3px solid black;
+    height:600px;
+    width:100vw;
+     
+    overflow-y:scroll;
+   
+    position:absolute;
+    background-color :black;
+}
+.first{
+    height:200px;
+    background-color:grey; 
+
+}
+.third{
+    height:250px;
+    background-color:grey; 
+
+}
+
+h3{
+    position:sticky;
+    text-align:center;
+    top:10px;
+    
+    
+}
+
+.ms{
+    border:1px solid green;
+    margin:2px;
+    
+}
+.you{
+    margin-left:20px;
+    background-color:rgb(155, 244, 237);
+    color: #000;;
+}
+.me{
+    background-color:black;
+    color:white;
+    border:1px solid white;
+}
+
