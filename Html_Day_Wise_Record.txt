@@ -172,3 +172,46 @@ Traffic Signal Ui
 Static Solar System
 
 
+
+
+Day 12-->
+Topics 
+Html Revision 
+
+Reviews on html
+
+
+Day -21/05/2024
+Topics:-
+Attribute-selectors
+[attribute]
+[attribute=value]	
+[attribute~=value]
+[attribute|=value]
+[attribute^=value]
+[attribute$=value]
+[attribute*=value]
+
+
+CSS BAckground Propreties:
+background-color
+background-image
+background-position
+background-size
+background-repeat
+background-origin
+background-clip
+background-attachment
+
+
+Css Gradinets
+Linear Gradients (goes down/up/left/right/diagonally)
+Radial Gradients (defined by their center)
+Conic Gradients (rotated around a center point)
+
+Research
+ 
+CSS Flex Box
+
+	
+
