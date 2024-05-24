@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Media Queries</title>
+  <!-- <link rel="stylesheet" href="media.css">
+ -->
+
+ <style>
+    @media  screen and (min-width:320px) { 
+        .main{
+            border:2px solid black;
+            height:90vh;
+            width: 85vw;
+            background-color: yellow;
+        }
+        .Header{
+            border:2px solid black;
+            height:25%;
+            margin:10px;
+            background-color:red
+    
+        }.sbdy{
+            border:2px solid black;
+            height:20%;
+            margin:10px;
+            background-color:orange;
+            
+    
+        }
+        .foot{
+            border:2px solid black;
+            height:20%;
+            margin:10px;background-color:paleturquoise
+        }
+        .mbdy{
+            border:2px solid black;
+            height:20%;
+            margin:10px;background-color:olive
+        }
+    }
+    @media screen and (min-width:768px){
+    .main{
+        border:2px solid black;
+        height:90vh;
+        width: 85vw;
+        background-color: yellow;
+    }
+    .Header{
+        border:2px solid black;
+        height:25%;
+        margin:10px;
+        background-color:red
+
+    }.sbdy{
+        border:2px solid black;
+        height:20%;
+        width:20%;
+
+        margin:10px;
+        background-color:orange;
+        
+
+    }
+    .foot{
+        border:2px solid black;
+        width:80%;
+        height: 10vw;
+        
+        
+        margin:10px;background-color:paleturquoise
+    }
+    .mbdy{
+        border:2px solid black;
+        height:20%;
+        margin:10px;background-color:olive
+    }
+    .sbdy,.mbdy{
+        border: 2px solid black;
+
+        display: flex;
+        flex-flow: column;
+
+    }
+
+}
+
+    @media  screen and (min-width:1024px) { 
+        .main{
+            border:2px solid black;
+            height:90vh;
+            width: 85vw;
+            background-color: rgb(114, 25, 177);
+        }
+        .Header{
+            border:2px solid black;
+            height:25%;
+            margin:10px;
+            background-color:rgba(21, 219, 80, 0.329)
+    
+        }.sbdy{
+            border:2px solid black;
+            height:10%;
+            width:90%;
+            margin:10px;
+            background-color:rgb(41, 8, 117);
+        }
+        .foot{
+            border:2px solid black;
+            height:20%;
+            margin:25px;background-color:rgb(96, 28, 185)
+        }
+        .mbdy{
+            border:2px solid black;
+            height:20%;
+            margin:25px;background-color:rgb(176, 227, 222)
+        }
+    }
+
+        
+
+   
+ </style>
+</head>
+<body><div class="main">
+    <div class="Header">Header </div>
+    <div class="sbdy">SideBody</div>
+    <div class="foot">Mbody</div>
+    <div class="mbdy">Footer</div></div>
+    
+</div>
+
+</body>
+</html>
