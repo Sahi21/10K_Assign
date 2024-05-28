@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .md{
+            background-color: aquamarine;
+            display: grid;
+            gap: 5px;
+            padding: 10px;
+            grid-template-columns:50px 50px 50px 50px;
+            grid-template-rows:50px 50px;
+            grid-auto-rows: 50px;
+            
+
+        }
+        .g{background-color: orange;
+            font-size: 20px;
+            text-align: center;
+            
+        }
+        .g3{
+            grid-column-start: 1;
+            grid-column-end: 5;
+
+        }
+        .g5{
+            grid-column: 2/5;
+            grid-row:3/6;
+            /* short-end propertie to take grid colum and row propeerties 2/4 mean 2 is 
+            start 4 is end  */
+        }
+        .g8{
+            grid-area: 2               /3                    / 4               /5      ;
+            /*         grid-row start  gird-colmn-start        grid row end    grid colmn end    --> short end for row and colmn start and end*/
+        }
+
+    </style>
+</head>
+<body>
+    <div class="md">
+        <div CLASS="g g1">S</div>
+        <div CLASS="g g2">R</div>
+        <div CLASS="g g3">F</div>
+        <div CLASS="g g4">1</div>
+        <div CLASS="g g5">2</div>
+        <div CLASS="g g6">4</div>
+        <div CLASS="g g7">3</div>
+        <div CLASS="g g8">5</div>
+        <div CLASS="g g9">6</div>
+        <div CLASS="g g10">7</div>
+        <div CLASS="g g11">8</div>
+        <div CLASS="g g12">9</div>
+    </div>
+</body>
+</html>
