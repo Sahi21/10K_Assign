@@ -1,0 +1,41 @@
+JavaScript Variables:
+
+In JavaScript, variables are used to store data values. Variables can be declared using 
+the var, let, or const keywords.
+
+1. var:
+The var keyword has been traditionally used in JavaScript to declare variables. 
+Variables declared using var are function-scoped, meaning they are only accessible 
+within the function they are declared in. Variables declared with var are also subject to hoisting, which means they can be accessed 
+before they are declared. However, this can lead to unpredictable behavior in your code.
+
+Example:
+javascript
+var x = 10;
+console.log(x); // 10
+
+
+2. let:
+The let keyword was introduced in ES6 (ECMAScript 2015) and is preferred over var for 
+declaring variables in modern JavaScript. Variables declared with let are block-scoped, 
+meaning they are only accessible within the block they are declared in 
+(e.g., within a loop or an if statement). Variables declared with let are not hoisted, which helps prevent bugs in your code.
+
+Example:
+javascript
+let y = 20;
+console.log(y); // 20
+
+
+3. const:
+The const keyword is used to declare constants in JavaScript. Once a variable is declared 
+with const, its value cannot be changed or reassigned. Variables declared with const are 
+block-scoped and not hoisted. It is recommended to use const for variables that should not be 
+changed, as it helps make your code more predictable and easier to maintain.
+
+Example:
+javascript
+const z = 30;
+console.log(z); // 30
+
+
