@@ -1,0 +1,27 @@
+Model Verbs
+1---->They are auxillary and provide specific meaning to the main verbs of the snetence
+2---->Model verbs are sometimes reffered to as model auxilary verbs because they help other words
+
+Can -->Ability,doubt,permisssion,polite,request
+
+Could-->past Ability & Polite 
+
+May--> Permission with doubt ,If not tProhibition
+
+Might-->Leat Possibility
+
+Must-->Obligation,firm neccesary, Logical probability
+
+Shall-->Intention,Formal
+
+Should-->Order and Advice
+
+Will-->wih,desire ,confidence,in the future
+
+need-->neccessity,neccessary
+
+have to--> forced,unwillingness
+
+Would to -->Wish ,polite, request, a habit of the past
+
+Want to --> neccesary, to past habits
