@@ -1,0 +1,39 @@
+1. Integer
+- Examples: 1, 100, -5
+- Description: Integers are whole numbers without any decimal point.
+
+ 2. Float
+- Examples: 3.14, -0.25, 100.0
+- Description: Floats are numbers that have a decimal point.
+
+ 3. String
+- Examples: "hello", "123", "Python"
+- Description: Strings are sequences of characters, enclosed in quotation marks.
+
+ 4. Boolean
+- Examples: True, False
+- Description: Booleans represent truth values, either true or false.
+
+ 5. List
+- Examples: [1, 2, 3], ["apple", "banana", "orange"]
+- Description: Lists are ordered collections of items, which can be of different datatypes.
+
+ 6. Tuple
+- Examples: (1, 2, 3), ("John", 25, True)
+- Description: Tuples are ordered, immutable collections of items.
+
+ 7. Dictionary
+- Examples: {"name": "John", "age": 25}, {"fruit": "apple", "color": "red"}
+- Description: Dictionaries are unordered collections of key-value pairs.
+
+ 8. Set
+- Examples: {1, 2, 3}, {"apple", "banana", "orange"}
+- Description: Sets are unordered collections of unique items.
+
+ 9. None
+- Examples: None
+- Description: None represents the absence of a value or a null value.
+
+ 10. Bytes
+- Examples: b"hello", b"123"
+- Description: Bytes are sequences of bytes used to represent binary data.
